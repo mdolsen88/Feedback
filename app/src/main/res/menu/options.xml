@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/site"
+        android:title="Vælg Side(r)"/>
+    <!-->
+    <item android:id="@+id/site"
+        android:title="Choose Site(s)"/>
+    <item android:id="@+id/site"
+        android:title="Vælg Side(r)"/>
+    <item android:id="@+id/choosevideo"
+        android:title="Choose videos" />
+
+    <item android:id="@+id/exit"
+        android:title="Exit"/>
+        <!-->
+</menu>

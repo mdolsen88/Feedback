@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/admin_setID"
+        android:title="Set ID" />
+    <item android:id="@+id/admin_save"
+        android:title="Toggle Save"/>
+    <item android:id="@+id/admin_autoplay"
+        android:title="Toggle AutoPlay"/>
+    <item android:id="@+id/admin_upload"
+        android:title="Upload Now" />
+    <item android:id="@+id/admin_videos"
+        android:title="Choose videos" />
+    <item android:id="@+id/admin_settings"
+        android:title="Threshold Settings" />
+    <!-->
+    <item android:id="@+id/exit"
+        android:title="Exit" />
+        <!-->
+</menu>
